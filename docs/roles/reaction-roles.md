@@ -29,7 +29,7 @@
 	| **rr [channel\|cc] [name=get-roles]** | !rr cc color-roles | Creates a channel with the sort of permissions you most likely want for a reaction role channel (yes, add reactions is off, this is intentional) |
 	| **rr fix** | !rr fix | Accidentally (or intentionally) cleared all reactions? Use this command to have the bot add the reactions missing |
 
-### RR Types
+### RR Type
 
 !!! info
     Types are per message and change their behavior. Every message has a type which defaults to normal.
